@@ -8,4 +8,5 @@ daily use dotfile
 - .vimrc
 - .zshrc
 - .tmux.conf
+- .bash_profile
 
