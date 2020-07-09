@@ -16,4 +16,4 @@ daily use dotfile
 - .tmux.conf
 
 #### 示例 
-![使用示例](./assets/srceen.png)
+![使用示例](./assets/screen.png)
